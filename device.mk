@@ -104,7 +104,6 @@ PRODUCT_PACKAGES += \
     android.hardware.boot@1.2-mtkimpl
 
 PRODUCT_PACKAGES += \
-    libmtk_bsg \
     libmtk_bsg.recovery
 
 # MediaTek Preloader Utils
